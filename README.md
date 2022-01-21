@@ -12,12 +12,11 @@ This applications is an personal finance manager.
 ## Screenshots
 
 <div align="center" id="top"> 
-  ![Captura de tela_2022-01-21_11-38-54](https://user-images.githubusercontent.com/60305694/150545785-804510c9-5c40-488d-9a31-b0080814ad58.png)
-</div>
+  <img src="./src/assets/screen2.png" alt="02 Dtmoney" />
 <br/>
 <br/>
 <div align="center" id="top"> 
-  ![Captura de tela_2022-01-21_11-39-21](https://user-images.githubusercontent.com/60305694/150545823-0a033a9c-768e-4a9b-a443-1c9b75465e96.png)
+  <img src="./src/assets/screen1.png" alt="02 Dtmoney" />
 </div>
 
 ## Features
