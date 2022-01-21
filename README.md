@@ -12,12 +12,12 @@ This applications is an personal finance manager.
 ## Screenshots
 
 <div align="center" id="top"> 
-  <img src="./src/assets/screen2.png" alt="02 Dtmoney" />
+  ![Captura de tela_2022-01-21_11-38-54](https://user-images.githubusercontent.com/60305694/150545785-804510c9-5c40-488d-9a31-b0080814ad58.png)
 </div>
 <br/>
 <br/>
 <div align="center" id="top"> 
-  <img src="./src/assets/screen1.png" alt="02 Dtmoney" />
+  ![Captura de tela_2022-01-21_11-39-21](https://user-images.githubusercontent.com/60305694/150545823-0a033a9c-768e-4a9b-a443-1c9b75465e96.png)
 </div>
 
 ## Features
@@ -68,3 +68,5 @@ Made with 💜 by <a href="https://github.com/vits56" target="_blank">Bruno Bast
 &#xa0;
 
 <a href="#top">Back to top</a>
+
+
