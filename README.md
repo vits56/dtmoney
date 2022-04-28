@@ -37,19 +37,26 @@ The following tools were used in this project:
 - [Axios](https://github.com/axios/axios)
 - [Styled Componensts](https://styled-components.com/)
 
-## Requerimentos
+## Requirements
 
-Para começar 🏁, você vai precisar do [Git](https://git-scm.com) e  [Node](https://nodejs.org/en/) instalados.
+Before starting 🏁, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-## Iniciando
+## Starting
 
 ```bash
 # Clone this project
-$ https://github.com/vits56/desafio-warren
+$ git clone https://github.com/vits56/dtmoney
 
 # Access
 $ cd dtmoney
 
+# Install dependencies
+$ yarn
+
+# Run the project
+$ yarn start
+
+# The server will initialize in the <http://localhost:3000>
 ```
 
 ## License
