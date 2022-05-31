@@ -61,7 +61,7 @@ $ yarn start
 
 ## License
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 Made with 💜 by <a href="https://github.com/vits56" target="_blank">Bruno Bastos Duarte</a>
 
